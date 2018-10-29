@@ -36,4 +36,5 @@ sysinfo.txt
 *.unitypackage
 
 # GitHub Plugin
-Assets/Plugins/GitHub/Editor
+Assets/Plugins/GitHub/
+Assets/Plugins/GitHub.meta
